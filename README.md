@@ -1,12 +1,19 @@
- # Skin Condition Detection App
+ # 🌟Skin Condition Detection App
  
-This Android application is designed to detect skin health by utilizing machine learning technologies. Built with Android Studio and TensorFlow, the app can distinguish between benign and malignant skin conditions. Leveraging a sophisticated ML model, it analyzes skin images to detect various conditions, empowering users to seek professional medical advice promptly.
+## Overview
+😎 Dermalyze - SKINSafe is a machine learning application designed for the early detection of skin cancer. USING Android Studio, Python, and TensorFlow, the app analyzes dermatological images to identify potential cancerous lesions with high accuracy. It incorporates image processing and data augmentation techniques using OpenCV to enhance its diagnostic capabilities.
 
-Features
-Accurate Condition Detection: Utilizes a TensorFlow-based ML model to identify and differentiate between benign and malignant skin conditions.
-Easy-to-Use Interface: Designed with user experience in mind, the app offers a simple and intuitive interface for uploading and analyzing skin images.
-Instant Results: Delivers real-time analysis results, helping users understand their skin condition without unnecessary delays.
+## 🔎 Features
+- **Early Detection**: Analyzes dermatological images to identify cancerous lesions.
+- **High Accuracy**: Utilizes machine learning models for precise detection.
+- **Image Processing**: Implements OpenCV for image processing and data augmentation.
+- **User-Friendly Interface**: Built with Android Studio to provide a seamless user experience.
 
-Technologies Used
-Android Studio: For app development and interface design.
-TensorFlow: Powers the machine learning model for skin condition detection.
+## 🌐 Technology Used
+- **Android Studio (Kotlin)**: For developing the mobile application.
+- **TensorFlow (Python)**: For building and training the machine learning model.
+- **OpenCV**: For image processing and data augmentation.
+
+  <img src="SKINAI.jfif" alt="UML" width="1000">
+  <img src="SKINAI1.jfif" alt="UML" width="1000">
+
