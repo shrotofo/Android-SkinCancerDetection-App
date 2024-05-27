@@ -14,6 +14,6 @@
 - **TensorFlow (Python)**: For building and training the machine learning model.
 - **OpenCV**: For image processing and data augmentation.
 
-  <img src="SKINAI.jfif" alt="" width="5000" height="500">
+  <img src="SKINAI.jfif" alt="" width="100" height="500">
   <img src="SKINAI1.jfif" alt="" width="1000" height="2000">
 
