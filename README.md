@@ -15,8 +15,8 @@
 - **OpenCV**: For image processing and data augmentation.
 
 <div style="display: flex; flex-direction: row;">
-  <img src="SKINAI.jfif" alt="" width="400" height="700">
-  <img src="SKINAI1.jfif" alt="" width="400" height="700">
+  <img src="SKINAI.jfif" alt="" width="500" height="900">
+  <img src="SKINAI1.jfif" alt="" width="500" height="900">
 </div>
 
 
